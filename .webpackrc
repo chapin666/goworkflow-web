@@ -1,0 +1,18 @@
+{
+    "extraBabelPlugins": [
+        [
+            "import",
+            {
+                "libraryName": "antd",
+                "libraryDirectory": "es",
+                "style": "css"
+            }
+        ]
+    ],
+    "proxy": {
+        "/api": {
+            "changeOrigin": true,
+            "target": "http://127.0.0.1:6062/flow"
+        }
+    }
+}
