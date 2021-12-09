@@ -1,4 +1,4 @@
-# goworkflow-web
+# kitten-web
 
 View and edit BPMN 2.0 diagrams in the browser.
 
